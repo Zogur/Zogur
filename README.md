@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Zogur
-- 👀 I’m interested in move
-- 🌱 I’m currently learning blog
+- 👋 Hi, I’m @Zogur(Dingzp)
+- 👀 I’m interested in move and code......
+- 🌱 I’m currently learning blog and QChatGPT
 - 💞️ I’m looking to collaborate on China
 - 📫 How to reach me 3468845886@qq.com
 - 😄 Pronouns: ...
